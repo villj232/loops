@@ -1,4 +1,10 @@
-## Classwork
+## Classwork: Patterns
+
+![sol lewitt](http://creativecomputing-s16.github.io/images/sollewitt.jpg)
+
+> "When an artist uses a conceptual form of art, it means that all of the planning and decisions are made beforehand and the execution is a perfunctory affair. The idea becomes a machine that makes the art."
+>
+>~[Sol LeWitt](https://www.youtube.com/watch?v=YvOpvam8CSM)
 
 In the spirit of Sol LeWitt, today we're going to work on patterns.
 
